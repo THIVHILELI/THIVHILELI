@@ -1,3 +1,7 @@
 this is a new file with an apropiate naming conversion as it does not have spaces in between the name of the file
 the file have been edited
+<<<<<<< HEAD
 the changes ben requested
+=======
+Adding the github
+>>>>>>> d0752f346f882b6cf48eb239cbe8abe9d41241de
